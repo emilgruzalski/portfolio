@@ -1,0 +1,12 @@
+{
+    "firstName": "Emil",
+    "lastName": "Grużalski",
+    "intro": [ 
+        "I'm a software developer based in Toruń, Poland. I'm currently working at Information & Communication Technology Centre at Nicolaus Copernicus University as a IT specialist. I'm also a student at the Nicolaus Copernicus University.", 
+        "You can have a look at some of my work here." 
+    ],
+    "about": [ 
+        "Hello! I'm passionate about DevOps, where I bridge the gap between development and operations to create efficient, scalable, and resilient software systems. With a strong foundation in backend technologies, I am well-versed in ASP.NET Core and Python Flask, enabling me to build robust and high-performance server-side solutions. I thrive on architecting backend systems that power modern applications.", 
+        "In addition to backend expertise, I also have a keen interest in frontend technologies. I specialize in crafting user-friendly interfaces with React and Angular, enhancing the overall user experience. Beyond development, I excel in the art of application hosting, leveraging tools like Docker, Kubernetes, Nginx, and IIS to deploy applications securely and efficiently. I believe in continuous learning and staying at the forefront of technology to deliver cutting-edge solutions for a seamless development and deployment process." 
+    ]
+}

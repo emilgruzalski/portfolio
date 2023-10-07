@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Reception Book",
+        "stack": {
+            "name": "Angular",
+            "iconClasses": "fab fa-angular"
+        },
+        "description": "Hotel management system handling reservations, maintenance requests and other hotel operations.",
+        "sourceUrl": "",
+        "previewUrl": "",
+        "featured": true
+    },
+    {
+        "name": "MediCase",
+        "stack": {
+            "name": "React",
+            "iconClasses": "fab fa-react"
+        },
+        "description": "Educational application supporting medical consultation. Project in cooperation with Nicolaus Copernicus University.",
+        "sourceUrl": "https://github.com/emilgruzalski/MediCase.UI",
+        "previewUrl": "",
+        "featured": true
+    },
+    {
+        "name": "Poker Dice",
+        "stack": {
+            "name": "SvelteKit",
+            "iconClasses": "fab fa-js-square"
+        },
+        "description": "Online game that combines the thrill of poker with the strategy of dice rolling with intuitive interface and dynamic gameplay.",
+        "sourceUrl": "https://github.com/emilgruzalski/PokerDice.UI",
+        "previewUrl": "",
+        "featured": true
+    },
+    {
+        "name": "Cipher Fly",
+        "stack": {
+            "name": "Electron",
+            "iconClasses": "fab fa-js-square"
+        },
+        "description": "Application designed for the seamless and secure transmission of encrypted files and prioritizing privacy.",
+        "sourceUrl": "",
+        "previewUrl": "",
+        "featured": false
+    }
+]
