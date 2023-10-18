@@ -8,7 +8,7 @@
         "description": "Hotel management system handling reservations, maintenance requests and other hotel operations.",
         "sourceUrl": "",
         "previewUrl": "",
-        "featured": true
+        "featured": false
     },
     {
         "name": "MediCase",
@@ -42,5 +42,16 @@
         "sourceUrl": "",
         "previewUrl": "",
         "featured": false
+    },
+    {
+        "name": "Memoji",
+        "stack": {
+            "name": "SvelteKit",
+            "iconClasses": "fab fa-js-square"
+        },
+        "description": "Online emoji-themed memory game.",
+        "sourceUrl": "https://github.com/emilgruzalski/memoji",
+        "previewUrl": "https://memoji-emilgruzalski.vercel.app",
+        "featured": true
     }
 ]
