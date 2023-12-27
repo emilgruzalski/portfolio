@@ -17,19 +17,19 @@
             "iconClasses": "fab fa-react"
         },
         "description": "Educational application supporting medical consultation. Project in cooperation with Nicolaus Copernicus University.",
-        "sourceUrl": "https://github.com/emilgruzalski/MediCase.UI",
+        "sourceUrl": "https://github.com/emilgruzalski/MediCase-Frontend",
         "previewUrl": "",
         "featured": true
     },
     {
-        "name": "Poker Dice",
+        "name": "Yahtzee",
         "stack": {
             "name": "SvelteKit",
             "iconClasses": "fab fa-js-square"
         },
-        "description": "Online game that combines the thrill of poker with the strategy of dice rolling with intuitive interface and dynamic gameplay.",
-        "sourceUrl": "https://github.com/emilgruzalski/PokerDice.UI",
-        "previewUrl": "https://poker-dice.vercel.app",
+        "description": "Online classic dice-rolling game, where luck and strategy collide in a quest to achieve the highest scores with every roll.",
+        "sourceUrl": "https://github.com/emilgruzalski/Yahtzee-Frontend",
+        "previewUrl": "https://yahtzee-emilgruzalski.vercel.app/",
         "featured": true
     },
     {
