@@ -18,7 +18,7 @@
         },
         "description": "Educational application supporting medical consultation. Project in cooperation with Nicolaus Copernicus University.",
         "sourceUrl": "https://github.com/emilgruzalski/MediCase-Frontend",
-        "previewUrl": "",
+        "previewUrl": "https://drive.google.com/file/d/1trwvOfESRJHzhY5DxDE_k5EWrRRe_HZA/view?usp=sharing",
         "featured": true
     },
     {
@@ -35,8 +35,8 @@
     {
         "name": "Cipher Fly",
         "stack": {
-            "name": "Electron",
-            "iconClasses": "fab fa-js-square"
+            "name": "React Native",
+            "iconClasses": "fab fa-react"
         },
         "description": "Application designed for the seamless and secure transmission of encrypted files and prioritizing privacy.",
         "sourceUrl": "",
@@ -44,7 +44,7 @@
         "featured": false
     },
     {
-        "name": "Memoji",
+        "name": "MemoJi",
         "stack": {
             "name": "SvelteKit",
             "iconClasses": "fab fa-js-square"
