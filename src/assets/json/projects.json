@@ -1,16 +1,5 @@
 [
     {
-        "name": "Reception Book",
-        "stack": {
-            "name": "Angular",
-            "iconClasses": "fab fa-angular"
-        },
-        "description": "Hotel management system handling reservations, maintenance requests and other hotel operations.",
-        "sourceUrl": "",
-        "previewUrl": "",
-        "featured": false
-    },
-    {
         "name": "MediCase",
         "stack": {
             "name": "React",
@@ -22,10 +11,43 @@
         "featured": true
     },
     {
-        "name": "Yahtzee",
+        "name": "Portfolio",
+        "stack": {
+            "name": "Angular",
+            "iconClasses": "fab fa-angular"
+        },
+        "description": "This portfolio website is a sleek showcase for web application projects, highlighting each with icons and concise descriptions.",
+        "sourceUrl": "https://github.com/emilgruzalski/portfolio",
+        "previewUrl": "https://emilgruzalski.vercel.app",
+        "featured": true
+    },
+    {
+        "name": "MemoJi",
         "stack": {
             "name": "SvelteKit",
             "iconClasses": "fab fa-js-square"
+        },
+        "description": "Online emoji-themed memory game. Test your memory and try to match all the cards in the shortest time possible.",
+        "sourceUrl": "https://github.com/emilgruzalski/memoji",
+        "previewUrl": "https://memoji-emilgruzalski.vercel.app",
+        "featured": true
+    },
+    {
+        "name": "Reception Book",
+        "stack": {
+            "name": "Angular",
+            "iconClasses": "fab fa-angular"
+        },
+        "description": "Hotel management system handling reservations, maintenance requests and other hotel operations.",
+        "sourceUrl": "",
+        "previewUrl": "",
+        "featured": false
+    },
+    {
+        "name": "Yahtzee",
+        "stack": {
+            "name": "React",
+            "iconClasses": "fab fa-react"
         },
         "description": "Online classic dice-rolling game, where luck and strategy collide in a quest to achieve the highest scores with every roll.",
         "sourceUrl": "https://github.com/emilgruzalski/Yahtzee-Frontend",
@@ -44,14 +66,14 @@
         "featured": false
     },
     {
-        "name": "MemoJi",
+        "name": "Scholarly",
         "stack": {
-            "name": "SvelteKit",
-            "iconClasses": "fab fa-js-square"
+            "name": "React",
+            "iconClasses": "fab fa-react"
         },
-        "description": "Online emoji-themed memory game. Test your memory and try to match all the cards in the shortest time possible.",
-        "sourceUrl": "https://github.com/emilgruzalski/memoji",
-        "previewUrl": "https://memoji-emilgruzalski.vercel.app",
-        "featured": true
+        "description": "Educational application serving as a comprehensive, interactive, and accessible platform for learning and research.",
+        "sourceUrl": "",
+        "previewUrl": "",
+        "featured": false
     }
 ]
